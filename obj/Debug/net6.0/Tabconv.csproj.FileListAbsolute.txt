@@ -1,0 +1,15 @@
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\bin\Debug\net6.0\Tabconv.exe
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\bin\Debug\net6.0\Tabconv.deps.json
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\bin\Debug\net6.0\Tabconv.runtimeconfig.json
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\bin\Debug\net6.0\Tabconv.dll
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\bin\Debug\net6.0\Tabconv.pdb
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\obj\Debug\net6.0\Tabconv.csproj.AssemblyReference.cache
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\obj\Debug\net6.0\Tabconv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\obj\Debug\net6.0\Tabconv.AssemblyInfoInputs.cache
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\obj\Debug\net6.0\Tabconv.AssemblyInfo.cs
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\obj\Debug\net6.0\Tabconv.csproj.CoreCompileInputs.cache
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\obj\Debug\net6.0\Tabconv.dll
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\obj\Debug\net6.0\refint\Tabconv.dll
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\obj\Debug\net6.0\Tabconv.pdb
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\obj\Debug\net6.0\Tabconv.genruntimeconfig.cache
+C:\Users\ConorAdmin\Desktop\Desktop\Dev\Tabconv\Tabconv\obj\Debug\net6.0\ref\Tabconv.dll
